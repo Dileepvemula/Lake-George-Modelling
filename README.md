@@ -1,4 +1,4 @@
-# Lake-George-Modelling (May 2020)
+# Lake-George-Modelling using Python3 (May 2020)
 
 Lake George, or Weereewa (in Ngunnawal), is an intermittent lake to the north-east of Canberra, Australia. It is well-known for having dramatic changes in water level. When full, it’s around 145 km2—20 times bigger than Lake Burley Griffin! But most of the time in contemporary history, it’s been fairly empty. This unusual
 behaviour has given Lake George quite the reputation and even some persistent myths and legends, including everything from a secret underground link between Lake George and Mount Gambier, to bunyip and alien sightings. Of course, these legends are (probably) not true, and the fluctuating water levels of Lake George are explained by its unusually shallow geology, evaporation, and rainfall. This code is used to investigate the water level of Lake George and develop two models of how it fills and ebbs over time.
